@@ -1,0 +1,22 @@
+created
+El usuario imprimio el objeto usuario
+Cliente Paquita Navajas solicita balance
+Paquita Navajas acaba de hacer un depósito de 100000 a Paquita Navajas quedando un saldo de : Saldo disponible: $ 100000
+Cliente Paquita Navajas solicita balance
+Paquita Navajas acaba de hacer un depósito de 200000 a Paquita Navajas quedando un saldo de : Saldo disponible: $ 300000
+Cliente Paquita Navajas solicita balance
+Paquita Navajas acaba de hacer un depósito de 300000 a Paquita Navajas quedando un saldo de : Saldo disponible: $ 600000
+Cliente Paquita Navajas solicita balance
+Paquita Navajas realizo un giro de 400000 . Saldo actual: Saldo disponible: $ 200000
+Cliente Paquita Navajas solicita balance
+created
+El usuario imprimio el objeto usuario
+Cliente Juanito Arcoiris solicita balance
+Juanito Arcoiris acaba de hacer un depósito de 1000000 a Juanito Arcoiris quedando un saldo de : Saldo disponible: $ 1000000
+Cliente Juanito Arcoiris solicita balance
+Juanito Arcoiris acaba de hacer un depósito de 900000 a Juanito Arcoiris quedando un saldo de : Saldo disponible: $ 1900000
+Cliente Juanito Arcoiris solicita balance
+Juanito Arcoiris realizo un giro de 800000 . Saldo actual: Saldo disponible: $ 1100000
+Cliente Juanito Arcoiris solicita balance
+Juanito Arcoiris realizo un giro de 700000 . Saldo actual: Saldo disponible: $ 400000
+Cliente Juanito Arcoiris solicita balance
